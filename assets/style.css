@@ -1,0 +1,13 @@
+.cv-container{
+    margin: 0 auto;
+    display: none;
+}
+
+.github-buttons{
+    text-align: center;
+    display: none;
+}
+
+.github-buttons iframe{
+    margin: 0 5px;
+}
